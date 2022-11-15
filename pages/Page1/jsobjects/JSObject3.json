@@ -1,0 +1,25 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject3",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tlimpiarMapa: () => {\n\t\tgetLugares.run();\n\t\tresetWidget(\"Map2\", true);\n\t}\n}",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_JSObject3",
+  "deleted": false,
+  "gitSyncId": "636301d8956dd31e95b0a439_636c51510c3174227f411130"
+}

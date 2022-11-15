@@ -1,0 +1,25 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject4",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tmyVar1: [],\n\tmyVar2: {},\n\tmyFun1: () => {\n\t\t{{resetWidget(\"Select2\", true)}};\n\t\t{{resetWidget(\"Select3\", true)}};\n\t\t{{resetWidget(\"Input6\", true)}};\n\t\t{{resetWidget(\"Input5\", true)}};\n\t\t{{showAlert('Actividad guardada correctamente', 'success')}}\n\t},\n\tmyFun2: () => {\n\t\t{{resetWidget(\"Select1\", true)}};\n\t\t{{resetWidget(\"Rating1\", true)}};\n\t\t{{showAlert('Calificación guardada correctamente', 'success')}}\n\t},\n\t\n\tmyFun3: () => {\n\t\t{{resetWidget(\"Input2\", true)}};\n\t\t{{resetWidget(\"Input3\", true)}};\n\t\t{{resetWidget(\"Input4\", true)}};\n\t\t{{resetWidget(\"Map2\", true)}};\n\t\t{{showAlert('Lugar turístico guardada correctamente', 'success')}}\n\t\t{{getLugaresCalificacion.run()}}\n\t},\n}",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page1_JSObject4",
+  "deleted": false,
+  "gitSyncId": "636301d8956dd31e95b0a439_6372fa7c5dc07247ec09de7b"
+}
