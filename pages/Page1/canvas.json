@@ -45,7 +45,7 @@
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 20.0625,
-              "leftColumn": 12,
+              "leftColumn": 6,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -1513,7 +1513,7 @@
               "key": "7hdok4loex",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 64,
+              "rightColumn": 58,
               "widgetId": "kboj4bbtef",
               "containerStyle": "card",
               "isVisible": true,
