@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 65,
+          "version": 67,
           "minHeight": 1292,
           "dynamicTriggerPathList": [],
           "parentColumnSpace": 1,
@@ -2150,7 +2150,7 @@
                       "allowZoom": true,
                       "parentColumnSpace": 6.9375,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 2,
+                      "leftColumn": 3,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -2170,7 +2170,7 @@
                       "enableSearch": true,
                       "key": "6ll739ye7z",
                       "isDeprecated": false,
-                      "rightColumn": 62,
+                      "rightColumn": 63,
                       "widgetId": "6qbqbtmesk",
                       "enableCreateMarker": true,
                       "isVisible": true,
